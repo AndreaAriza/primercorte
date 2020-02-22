@@ -1,0 +1,11 @@
+ol {
+    color: rgb(243, 12, 12);
+}
+
+ul {
+    color: rgb(42, 165, 108);
+}
+
+ol.classBlack {
+    color: black;
+}

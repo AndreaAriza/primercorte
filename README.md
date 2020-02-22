@@ -1,7 +1,6 @@
 # primercorte
 Clase de codificación #3
-Profesor:
-- Andres Jimenez 
+- Profesor: Andres Jimenez 
 Autores:
 - Andrea Stefannia Ariza Alvarez
 - Cristian David Llanos Perez
